@@ -18,6 +18,6 @@ public class Child extends Keluarga {
         System.out.println("Nama: " + nama);
         System.out.println("Jenis Kelamin: " + jenisKelamin);
         System.out.println("Usia: " + usia);
-        System.out.println("Jabatan: Child");
+        System.out.println("Jabatan: Anak");
     }
 }
